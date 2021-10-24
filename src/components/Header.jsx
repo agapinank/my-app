@@ -3,8 +3,11 @@
 import React from "react";
 
 const Header =()=>{
-    return <h1 >The Keeper App</h1>;
-}
+    return (<header>
+    <h1>The Keeper App</h1>
+    </header>
+    );
+    }
 
 
 
